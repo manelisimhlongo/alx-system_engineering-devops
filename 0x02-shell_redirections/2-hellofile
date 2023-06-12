@@ -1,4 +1,3 @@
 #!/bin/bash
 
-cat /etc/passwd || echo "File /etc/passwd does not exist."
-
+cat /etc/passwd
